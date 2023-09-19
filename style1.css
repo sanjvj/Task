@@ -1,0 +1,15 @@
+ th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 1750px ;
+  }
+.row{
+
+    border-radius: 1000px;
+    
+}
+
+
+th, td {
+    background-color: #96D4D4;
+  }
